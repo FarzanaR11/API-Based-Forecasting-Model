@@ -24,3 +24,4 @@ NH3: min value 0.1 - max value 200
 NO: min value 0.1 - max value 100
 
 Website - https://openweathermap.org/api/air-pollution
+![image](https://github.com/user-attachments/assets/085b03de-f728-4e5b-bbbb-4852271d5027)
