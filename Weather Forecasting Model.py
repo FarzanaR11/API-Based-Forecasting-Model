@@ -10,7 +10,7 @@ import time
 
 # === Weather Data (OpenWeatherMap) ===
 def fetch_weather_data():
-    API_KEY = 'your_openweather_api_key'  # Replace with your API key
+    API_KEY = 'openweather_api_key'  # open weather API key
     CITY = 'Dhaka'
     LAT, LON = 40.7128, -74.0060  # Latitude and Longitude for New York
     BASE_URL = 'https://api.openweathermap.org/data/2.5/onecall/timemachine'
